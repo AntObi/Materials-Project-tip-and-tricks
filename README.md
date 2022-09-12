@@ -6,5 +6,5 @@ The two folders, `legacy` and `next_gen`, contain examples using the `pymatgen.e
 
 ## Installation
 
-The key dependency regardless of database version will be [`pymatgen`](https://pymatgen.org/installation.html)
+The key dependency regardless of API version will be [`pymatgen`](https://pymatgen.org/installation.html)
 
